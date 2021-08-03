@@ -1,0 +1,7 @@
+{
+  "name": "Ruta_Optima",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
